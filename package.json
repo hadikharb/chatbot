@@ -1,0 +1,13 @@
+{
+  "name": "chatbot-server",
+  "version": "1.0.0",
+  "description": "Multi-customer AI support bot for Facebook, Instagram and WhatsApp (Arabic, French, Tunisian darija)",
+  "type": "module",
+  "main": "src/server.js",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "start": "node src/server.js",
+    "chat": "node scripts/chat.js"
+  },
+  "dependencies": { "express": "^4.21.0" }
+}

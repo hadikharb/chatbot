@@ -1,0 +1,18 @@
+{
+  "active": true,
+  "mode": "log_only",
+  "name": "Ma Boutique",
+  "logo": "🛍",
+  "contact": "+216 00 000 000",
+  "tone": "friendly and warm",
+  "len": "1-4 sentences",
+  "script": "franco",
+  "greet": "Aslema! 👋 Kifech na3awnek ? Comment puis-je vous aider ?",
+  "kb": "Livraison: partout en Tunisie, 7 DT, 24 à 72h. Gratuite à partir de 150 DT.\nPaiement: à la livraison (cash).\nRetour: 7 jours si le produit est intact.\nHoraires: 9h-18h, lundi au samedi.\nProduits: T-shirt coton 39 DT (S/M/L/XL), Sac cuir 119 DT, Casquette 25 DT.",
+  "extra": "",
+  "channels": {
+    "facebook":  { "pageId": "FACEBOOK_PAGE_ID", "tokenEnv": "ACME_PAGE_TOKEN", "enabled": true },
+    "instagram": { "accountId": "INSTAGRAM_ACCOUNT_ID", "enabled": true },
+    "whatsapp":  { "phoneNumberId": "WHATSAPP_PHONE_NUMBER_ID", "tokenEnv": "ACME_WA_TOKEN", "enabled": true }
+  }
+}
